@@ -1,8 +1,4 @@
 # Password Strength Meter for React
-A user-friendly password strength meter, written in React.
+A user-friendly password strength meter, written in React - ZXCVBN library
 
-View the [live demo](https://warm-garden-25373.herokuapp.com/).
-
-Find the full tutorial on how to create this from scratch over at [Upmostly.com/build-a-password-strength-meter-react](https://upmostly.com/build-a-password-strength-meter-react)
-
-![blh](https://upmostly.com/wp-content/uploads/password-strength-meter-1.gif)
+https://docs.google.com/presentation/d/17kv6vsOMj5rDcx-USqDFnEyvn-BGp8oKbCYKRVHSaTE/edit#slide=id.g4c945e48d6_0_83
